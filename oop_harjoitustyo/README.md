@@ -1,0 +1,1 @@
+Shakkipeli joka tehty harjoitustyönä. Shakkipelissä nappulat luokka edustaa kaikkia nappuloita, ja kullekin nappulalle on eriteltynä oma luokkansa, joka sisältää nappulan omia erikoispiirteitä ja on Nappulat-luokan aliluokka. Lisäksi peli sisältää Alusta-luokan, joka esittää shakkialustaa.
